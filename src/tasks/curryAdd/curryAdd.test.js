@@ -1,4 +1,4 @@
-import {add} from './curryAdd'; // Update the path to your add.js file
+import {add} from './curryAdd';
 
 describe('add function', () => {
     it('should return the sum of two arguments', () => {
